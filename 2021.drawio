@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-30T05:56:34.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Cu5zQlJ9FYkmXDBoiNgo" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-30T07:00:01.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="BS6rTduRcMAdSDBxRulY" version="14.6.9" type="github">
   <diagram id="_5SUATx5Qh94MsyphIVc" name="Page-1">
     <mxGraphModel dx="1422" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="siiP2Zlp8xh198dHxCed-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="siiP2Zlp8xh198dHxCed-2" target="siiP2Zlp8xh198dHxCed-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-2" value="账号是否为空" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-2" value="账号是否为空" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="147" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-3" value="账号登陆" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -28,7 +28,7 @@
         <mxCell id="siiP2Zlp8xh198dHxCed-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="siiP2Zlp8xh198dHxCed-4" target="siiP2Zlp8xh198dHxCed-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-4" value="根据device_id查找" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-4" value="根据device_id查找" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="347" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-6" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -43,16 +43,16 @@
         <mxCell id="siiP2Zlp8xh198dHxCed-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="siiP2Zlp8xh198dHxCed-8" target="siiP2Zlp8xh198dHxCed-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-8" value="根据账号查找" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-8" value="根据账号查找" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="147" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-10" value="返回账号" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-10" value="返回账号" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="547" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-12" value="找到" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="300" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-13" value="注册新账号" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-13" value="注册新账号" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="347" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-15" value="找不到" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -63,13 +63,13 @@
             <mxPoint x="567" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-18" value="返回账号&lt;br&gt;(device_id不同更新)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-18" value="返回账号&lt;br&gt;(device_id不同更新)" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="347" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-20" value="找到" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="490" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-21" value="报错" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-21" value="报错" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="147" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-23" value="找不到" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -90,7 +90,7 @@
         <mxCell id="siiP2Zlp8xh198dHxCed-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="siiP2Zlp8xh198dHxCed-31" target="siiP2Zlp8xh198dHxCed-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-31" value="根据手机/FB查找" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-31" value="根据手机/FB查找" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="155" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-37" value="返回账号&lt;br&gt;(device_id不同更新)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -107,7 +107,7 @@
             <mxPoint x="215" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-39" value="是否携带账号" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-39" value="是否携带账号" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="155" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-40" value="找不到" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -121,7 +121,7 @@
         <mxCell id="siiP2Zlp8xh198dHxCed-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="siiP2Zlp8xh198dHxCed-41" target="siiP2Zlp8xh198dHxCed-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-41" value="&lt;span&gt;查找device_id是否存在&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-41" value="&lt;span&gt;查找device_id是否存在&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="155" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-42" value="没携带" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -133,7 +133,7 @@
         <mxCell id="siiP2Zlp8xh198dHxCed-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="siiP2Zlp8xh198dHxCed-45" target="siiP2Zlp8xh198dHxCed-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-45" value="查找账号" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-45" value="查找账号" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="355" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-47" value="携带" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -145,13 +145,13 @@
         <mxCell id="siiP2Zlp8xh198dHxCed-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="siiP2Zlp8xh198dHxCed-58" target="siiP2Zlp8xh198dHxCed-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-58" value="判断是否已绑定手机/FB" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-58" value="判断是否已绑定手机/FB" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="555" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-60" value="找到" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="890" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-61" value="报错" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-61" value="报错" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="355" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-63" value="没找到" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -160,19 +160,19 @@
         <mxCell id="siiP2Zlp8xh198dHxCed-70" value="存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="1149" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-71" value="注册并绑定" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-71" value="注册并绑定" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="155" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-73" value="不存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="1200" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-76" value="报错" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-76" value="报错" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="755" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-78" value="绑定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="890" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-79" value="&lt;span&gt;绑定并返回&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-79" value="&lt;span&gt;绑定并返回&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="555" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-81" value="未绑定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -184,16 +184,16 @@
         <mxCell id="siiP2Zlp8xh198dHxCed-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="siiP2Zlp8xh198dHxCed-84" target="siiP2Zlp8xh198dHxCed-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-84" value="判断是否已绑定手机/FB" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-84" value="判断是否已绑定手机/FB" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="355" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-85" value="报错" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-85" value="报错" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="555" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-86" value="绑定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="1129" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="siiP2Zlp8xh198dHxCed-87" value="&lt;span&gt;绑定并返回&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="siiP2Zlp8xh198dHxCed-87" value="&lt;span&gt;绑定并返回&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="355" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siiP2Zlp8xh198dHxCed-88" value="未绑定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
